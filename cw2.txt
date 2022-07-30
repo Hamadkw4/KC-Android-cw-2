@@ -1,0 +1,14 @@
+public class Main
+{
+	public static void main(String[] args) {
+		
+		int height= 183;
+		if(height>160){
+		  System.out.println("Welcome");
+		  
+		} else if(height<160){
+		    System.out.println( "you are not Welcome");
+		   
+		}
+	}
+}
